@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![Repositories](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
 [![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=$.public_gists&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
 <!-- [![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) -->
-[![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) I am proficient in several programming languages, including Java, Python, and JavaScript.
+[![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) 
+<!-- I am proficient in several programming languages, including Java, Python, and JavaScript. -->
 
 I'm a software developer (AI & Android) who is passionate about coding and creating things that make a difference. 
 
