@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ijzepeda-LC/ijzepeda-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Ivan Zepeda(http://ivanzepeda.me) 👋
+[![Stars](https://img.shields.io/github/stars/<your-username>?style=social)](https://github.com/ijzepeda-LC)
+[![Repositories](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
+[![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=$.public_gists&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
+<!-- [![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) -->
+[![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) I am proficient in several programming languages, including Java, Python, and JavaScript.
 
 I'm a software developer (AI & Android) who is passionate about coding and creating things that make a difference. 
 
@@ -24,15 +27,17 @@ I'm a software developer (AI & Android) who is passionate about coding and creat
 
 ## ⚡ GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical)
-
+<!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact)](https://github.com/ijzepeda-LC)
-
-[![Stars](https://img.shields.io/github/stars/<your-username>?style=social)](https://github.com/ijzepeda-LC)
-[![Repositories](https://img.shields.io/badge/dynamic/json?color=green&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
-[![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=$.public_gists&url=https://api.github.com/users/ijzepeda-LC)](https://github.com/ijzepeda-LC)
-<!-- [![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) -->
-[![Languages](https://img.shields.io/github/languages/count/ijzepeda-LC/README-template)](https://github.com/ijzepeda-LC/README-template) I am proficient in several programming languages, including Java, Python, and JavaScript.
+ -->
+<div style="display:flex;">
+  <a href="https://github.com/ijzepeda-LC/repo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/ijzepeda-LC/repo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact" />
+  </a>
+</div>
 
 ## 🌟 Featured Repositories
 
